@@ -38,6 +38,7 @@ link_path "$PLUGIN_SKILL_DIR/scripts" "../../../../skills/spawn-coding-worker/sc
 link_path "$PLUGIN_SKILL_DIR/references" "../../../../skills/spawn-coding-worker/references"
 link_path "$PLUGIN_SKILL_DIR/agents" "../../../../skills/spawn-coding-worker/agents"
 
+
 echo
 echo "Shared links refreshed."
 echo "For standalone plugin updates, use:"
